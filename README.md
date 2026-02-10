@@ -17,7 +17,7 @@
 
 </div>
 
-## ⚠️ Game assets go inside `~/.config/openjazz/` ⚠️
+## ⚠️ Game assets within `~/.config/openjazz/` ⚠️
 
 ---
 
