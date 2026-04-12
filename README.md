@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/OpenJazz-AppImage)](https://github.com/pkgforge-dev/OpenJazz-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/AlisterT/openjazz/blob/master/res/unix/OpenJazz.png" width="128" />
+  <img src="https://raw.githubusercontent.com/AlisterT/openjazz/refs/heads/master/res/unix/OpenJazz.svg" width="128" />
 </p>
 
 
