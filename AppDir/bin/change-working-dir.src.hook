@@ -1,4 +1,4 @@
 #!/bin/sh
-dir=${XDG_CONFIG_HOME:-~/.config}/openjazz
+dir=$CONFIGDIR/openjazz
 mkdir -p "$dir"
 cd "$dir"
